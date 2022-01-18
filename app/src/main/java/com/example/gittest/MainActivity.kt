@@ -38,5 +38,6 @@ fun DefaultPreview() {
         Greeting("dev2")
         Greeting("dev3")
         Greeting("v1")
+        Greeting("v1 update1")
     }
 }
