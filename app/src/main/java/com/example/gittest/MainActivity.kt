@@ -36,5 +36,6 @@ fun DefaultPreview() {
         Greeting("Android")
         Greeting("dev")
         Greeting("v1")
+        Greeting("v2")
     }
 }
