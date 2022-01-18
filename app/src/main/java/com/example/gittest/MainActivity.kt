@@ -34,5 +34,6 @@ fun Greeting(name: String) {
 fun DefaultPreview() {
     GitTestTheme {
         Greeting("Android")
+        Greeting("dev")
     }
 }
