@@ -35,5 +35,6 @@ fun DefaultPreview() {
     GitTestTheme {
         Greeting("Android")
         Greeting("dev")
+        Greeting("v1")
     }
 }
